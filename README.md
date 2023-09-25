@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Nam Anh
-I'm a third year student of Hanoi University of Science and Technology
+I'm a junior student of Hanoi University of Science and Technology
 <!--
 **gagasieuga/gagasieuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
