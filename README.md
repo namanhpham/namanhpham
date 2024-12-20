@@ -31,5 +31,5 @@ PostgreSQL, MySQL, MsSQLServer
 !-->
 
 # Statistics:
-![namanhpham's Stats](https://github-readme-stats.vercel.app/api?username=namanhpham&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![namanhpham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanhpham&theme=tokyonight&hide_border=false)
+![namanhpham's Stats](https://github-readme-stats.vercel.app/api?username=namanhpham&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![namanhpham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=namanhpham&theme=dark&hide_border=true)
